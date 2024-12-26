@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Core Ball</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <link rel="stylesheet" href="game.embed/style.css" />
+  </head>
+  <body>
+    <canvas style="display: none;" id="stage"></canvas>
+    <div id="begin">
+      <section class="center-box">
+        <span class="title">Core Ball</span>
+        <div class="button">
+          <div id="txtAr">▶</div>
+          <div class="text"></div>
+        </div>
+        <div class="op">
+          <span id="btnFW"></span>
+          <span id="btnReset"></span>
+          <div id="tip"></div>
+        </div>
+      </section>
+      <section id="wxArrow"></section>
+    </div>
+    <script type="text/javascript" src="game.embed/index.js"></script>
+        <style>
+	#redirect {
+      position: fixed;
+      bottom: 10px;
+      left: 10px;
+    }
+</style>
+    <button id="redirect" onclick="goToHomePage()"><image src="/img/DAC96524-23D1-4D33-B8DF-343E62276EB4.png" class="button1" style="width: 75px; height: 75px;" ></image></button>
+
+<script>
+function goToHomePage() {
+  window.location.href = '//' + window.location.hostname;
+}
+</script>
+  </body>
+</html>
