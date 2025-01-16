@@ -29,9 +29,9 @@ body {
 
 iframe {
   background-color: var(--black-color);
-  width: 70%;
+  width: 100%;
   border-radius: 10px 10px 0px 0px;
-  height: 70%;
+  height: 100%;
 }
 
 .actual:fullscreen iframe {
