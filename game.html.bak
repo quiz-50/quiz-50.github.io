@@ -67,45 +67,7 @@
           </div>
         </div>
       </div>
-      <div class="right">
-        <div class="nav">
-          <a href="/" class="logo">
-            <img src="/media/logom.png" alt="" />
-          </a>
-          <div class="links">
-            <a href="/new.html" class="nav-link">New</a>
-            <a href="/trending.html" class="nav-link">Trending</a>
-            <a href="/recent.html" class="nav-link">Recent</a>
-            <a href="/originals/atomic/" class="nav-link">Atomic</a>
-            <a href="/settings.html" class="nav-link">Settings</a>
-          </div>
-          <div class="copyright">© 2024 <a href="/">quiz-50.github.io</a></div>
-        </div> <center>
        
-        <div class="side-search">
-          <form class="side-search-input">
-            <input
-              type="text"
-              placeholder="Search 400+ G4m3s"
-              class="side-search-bar"
-              id="sideSearch"
-              autocomplete="off"
-            />
-            <button class="side-search-btn" type="submit">Go</button>
-          </form>
-          <span id="nothing" style="padding-inline: 20px"
-            >Oops, we don't have that G4m3 yet. Submit a request
-            <a
-              href="https://forms.gle/UpHgbAmLtUPCD5bs8"
-              target="_blank"
-              style="color: white"
-              id="nothing"
-              >here</a
-            >
-            or find another one!</span
-          >
-          <div class="games-container" id="list"></div>
-        </div>
 		        <div class="ad-container">
 	<div id='agar-surf_300X250_1'>
 		<script type='text/javascript'>
