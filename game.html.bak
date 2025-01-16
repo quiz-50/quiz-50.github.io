@@ -67,7 +67,30 @@
           </div>
         </div>
       </div>
-    
+    <nav class="nav" id="nav">
+      <div class="overflowm shoot" id="overflowm">
+        <img src="media/bars-solid.svg" alt="Menu" class="shoot" />
+      </div>
+      <a href="/" class="logo2" style="background-color: transparent">
+        <img src="/media/logom.png" alt="quiz-50.github.io Logo" />
+      </a>
+      <a href="new.html" class="nav-link">New</a>
+      <a href="trending.html" class="nav-link">Trending</a>
+      <a href="recent.html" class="nav-link">Recent</a>
+      <a href="/settings.html" class="nav-link">Settings</a>
+	   <a href="/originals/atomic/" class="nav-link" target="_blank">Atomic Clicker</a>
+      <div class="right">
+        <div class="select help-menu">
+          <span class="help-label help-menu">RESERVE</span>
+          <img src="media/caret.svg" class="caret help-menu" id="caret" />
+          <ul id="cats" class="cats help-menu">
+            <a href="https://class-80x.github.io" target="_blank">RESERVE</a>
+           
+          </ul>
+        </div>
+       
+      </div>
+    </nav>
     </div>
     <div class="game-share none" id="game-share">
       Link copied! You can share it in an email, social media, text, website, or
